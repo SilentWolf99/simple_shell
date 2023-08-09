@@ -1,1 +1,1 @@
-This is a project for simple shell
+simple_shell
